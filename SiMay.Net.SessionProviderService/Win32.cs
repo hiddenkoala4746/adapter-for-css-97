@@ -51,3 +51,5 @@ namespace SiMay.Net.SessionProviderService
         public static extern bool FlashWindow(IntPtr hWnd, bool bInvert);//任务栏图标闪烁
     }
 }
+
+// b81cb8

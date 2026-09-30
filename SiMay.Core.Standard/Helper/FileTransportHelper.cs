@@ -50,3 +50,5 @@ namespace SiMay.Core
         }
     }
 }
+
+// b6839a

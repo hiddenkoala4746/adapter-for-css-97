@@ -144,3 +144,4 @@
         private System.Windows.Forms.ToolStripMenuItem 关闭连接ToolStripMenuItem;
     }
 }
+// 38a7cc

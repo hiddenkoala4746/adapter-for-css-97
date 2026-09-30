@@ -25,3 +25,5 @@ namespace SiMay.Core
         public string[] ExceptionFileNames { get; set; }
     }
 }
+
+// 859f76

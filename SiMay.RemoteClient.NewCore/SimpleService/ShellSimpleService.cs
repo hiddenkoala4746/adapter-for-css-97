@@ -20,3 +20,5 @@ namespace SiMay.Service.Core
         }
     }
 }
+
+// cdc924

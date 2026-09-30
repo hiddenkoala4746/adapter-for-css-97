@@ -28,3 +28,5 @@ namespace SiMay.Core
         Exclaim
     }
 }
+
+// ecd782

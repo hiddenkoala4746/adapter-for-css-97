@@ -15,3 +15,5 @@ namespace SiMay.Core
         public string NewKeyName { get; set; }
     }
 }
+
+// b71c0b

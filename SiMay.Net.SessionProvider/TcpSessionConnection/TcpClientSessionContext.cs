@@ -88,3 +88,5 @@ namespace SiMay.Net.SessionProvider
         }
     }
 }
+
+// 4c187a

@@ -21,3 +21,5 @@ namespace SiMay.RemoteMonitorForWeb
         S_ID_OR_KEY_WRONG
     }
 }
+
+// e0778f

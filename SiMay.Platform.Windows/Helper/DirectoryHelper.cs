@@ -50,3 +50,5 @@ namespace SiMay.Platform.Windows
     }
  
 }
+
+// 00b615

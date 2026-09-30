@@ -24,3 +24,5 @@ namespace SiMaySocketTestApp.Properties {
         }
     }
 }
+
+// 26a22c

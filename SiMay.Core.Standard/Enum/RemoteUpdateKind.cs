@@ -18,3 +18,5 @@ namespace SiMay.Core
         File
     }
 }
+
+// e03ea3

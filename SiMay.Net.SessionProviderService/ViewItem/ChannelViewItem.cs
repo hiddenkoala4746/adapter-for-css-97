@@ -46,3 +46,5 @@ namespace SiMay.Net.SessionProviderService
         public TcpSessionChannelDispatcher ChannelDispatcher { get; private set; }
     }
 }
+
+// b7b9a1

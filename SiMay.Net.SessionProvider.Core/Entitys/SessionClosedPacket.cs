@@ -10,3 +10,5 @@ namespace SiMay.Net.SessionProvider.Core
         public long Id { get; set; }
     }
 }
+
+// 379c99

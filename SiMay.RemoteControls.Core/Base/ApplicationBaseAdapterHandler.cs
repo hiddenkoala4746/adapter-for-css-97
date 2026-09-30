@@ -142,3 +142,5 @@ namespace SiMay.RemoteControls.Core
             => await SyncOperationHelper.SendTo(CurrentSession, msg, data);
     }
 }
+
+// aadad0

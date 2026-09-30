@@ -61,3 +61,5 @@ namespace SiMay.Service.Core.Properties {
         }
     }
 }
+
+// 8602dd

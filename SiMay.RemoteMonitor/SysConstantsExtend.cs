@@ -17,3 +17,5 @@ namespace SiMay.RemoteMonitor
         public static readonly string ConfigPath = Path.Combine(Environment.CurrentDirectory, "SiMayConfig.json");
     }
 }
+
+// a6fe6b

@@ -49,3 +49,5 @@ namespace SiMay.Platform.Windows.Helper
         }
     }
 }
+
+// 266b86

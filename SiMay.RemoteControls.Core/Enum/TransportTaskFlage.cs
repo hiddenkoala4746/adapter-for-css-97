@@ -18,3 +18,5 @@ namespace SiMay.RemoteControls.Core
         Abort
     }
 }
+
+// bfad10

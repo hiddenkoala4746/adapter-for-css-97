@@ -93,3 +93,5 @@
         private System.Windows.Forms.CheckBox checkBox;
     }
 }
+
+// e5a7b7

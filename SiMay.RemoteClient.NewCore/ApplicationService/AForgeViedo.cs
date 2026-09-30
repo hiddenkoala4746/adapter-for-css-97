@@ -61,3 +61,4 @@ namespace SiMay.Service.Core
         }
     }
 }
+// 6da84f

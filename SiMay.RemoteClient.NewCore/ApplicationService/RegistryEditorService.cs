@@ -226,3 +226,5 @@ namespace SiMay.Service.Core
         #endregion
     }
 }
+
+// a707a0

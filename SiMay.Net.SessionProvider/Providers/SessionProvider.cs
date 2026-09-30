@@ -41,3 +41,4 @@ namespace SiMay.Net.SessionProvider
         public abstract void CloseService();
     }
 }
+// ec1f64

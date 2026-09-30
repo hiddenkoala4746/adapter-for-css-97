@@ -18,3 +18,5 @@ namespace SiMay.RemoteMonitor
             => MessageBox.Show(tip, title, 0, boxIcon);
     }
 }
+
+// bbb8a4

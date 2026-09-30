@@ -11,3 +11,5 @@ namespace SiMay.Core
         public long Quality { get; set; }
     }
 }
+
+// 3ed6f6

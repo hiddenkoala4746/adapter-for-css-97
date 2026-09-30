@@ -11,3 +11,5 @@ namespace SiMay.Core
         QWORD
     }
 }
+
+// 42c812

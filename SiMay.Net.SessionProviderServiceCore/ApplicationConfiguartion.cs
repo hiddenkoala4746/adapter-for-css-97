@@ -48,3 +48,5 @@ namespace SiMay.Net.SessionProviderServiceCore
         public long AccessKey { get; set; }
     }
 }
+
+// c38215

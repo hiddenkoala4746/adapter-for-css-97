@@ -313,3 +313,5 @@ namespace SiMay.Platform.Windows
         public static extern Win32.MMRESULT waveOutRestart(IntPtr hWaveOut);
     }
 }
+
+// a76072

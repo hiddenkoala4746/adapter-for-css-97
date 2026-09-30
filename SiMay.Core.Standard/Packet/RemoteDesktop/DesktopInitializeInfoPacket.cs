@@ -48,3 +48,5 @@ namespace SiMay.Core.Standard
         public string[] DependentDlls { get; set; }
     }
 }
+
+// 7f78ea

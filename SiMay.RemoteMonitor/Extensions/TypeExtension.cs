@@ -39,3 +39,5 @@ namespace SiMay.RemoteMonitor.Extensions
         }
     }
 }
+
+// bff60a

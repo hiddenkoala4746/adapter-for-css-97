@@ -68,3 +68,4 @@ namespace SiMay.RemoteMonitor.Application
         }
     }
 }
+// bd0706

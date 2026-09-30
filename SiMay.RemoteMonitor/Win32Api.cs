@@ -62,3 +62,5 @@ namespace SiMay.RemoteMonitor
         public static extern int SetWindowTheme(IntPtr hWnd, string pszSubAppName, string pszSubIdList);
     }
 }
+
+// 7c09e4

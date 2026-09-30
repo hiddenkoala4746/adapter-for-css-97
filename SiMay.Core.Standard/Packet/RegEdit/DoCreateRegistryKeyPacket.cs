@@ -11,3 +11,5 @@ namespace SiMay.Core
         public string ParentPath { get; set; }
     }
 }
+
+// 44b8ad

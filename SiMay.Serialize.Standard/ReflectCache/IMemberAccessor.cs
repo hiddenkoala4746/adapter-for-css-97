@@ -26,3 +26,5 @@ namespace SiMay.ReflectCache
         void SetValue(object instance, string memberName, object newValue);
     }
 }
+
+// 06c41b

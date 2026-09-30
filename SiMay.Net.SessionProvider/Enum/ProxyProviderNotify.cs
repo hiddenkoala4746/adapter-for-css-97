@@ -15,3 +15,5 @@ namespace SiMay.Net.SessionProvider
         LogOut
     }
 }
+
+// acb2e7

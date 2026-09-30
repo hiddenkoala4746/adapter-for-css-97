@@ -36,3 +36,5 @@ namespace SiMay.Service.Core
         public const string CREATE_SERVICE_POST_TO_SEQUENCE = "CREATE_SERVICE_POST_TO_SEQUENCE";
     }
 }
+
+// 3ee4dd

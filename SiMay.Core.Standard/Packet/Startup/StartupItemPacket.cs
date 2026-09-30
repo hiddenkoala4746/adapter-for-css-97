@@ -20,3 +20,5 @@ namespace SiMay.Core
         public StartupType Type { get; set; }
     }
 }
+
+// 720a0f

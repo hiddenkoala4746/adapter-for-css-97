@@ -12,3 +12,5 @@ namespace SiMay.Core
         public bool RecordEnable { get; set; }
     }
 }
+
+// 7eb945

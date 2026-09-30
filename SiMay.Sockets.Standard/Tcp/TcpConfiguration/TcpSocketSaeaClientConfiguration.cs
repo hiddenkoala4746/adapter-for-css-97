@@ -11,3 +11,5 @@ namespace SiMay.Sockets.Tcp.TcpConfiguration
 
     }
 }
+
+// 7b51f7

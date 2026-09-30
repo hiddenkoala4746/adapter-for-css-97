@@ -21,3 +21,5 @@ namespace SiMay.Core
         Delete_TCB = 12
     }
 }
+
+// 0595a2

@@ -59,3 +59,5 @@ namespace SiMay.Core
             => session.CompletedBuffer.GetMessageHead<MessageHead>();
     }
 }
+
+// 912536

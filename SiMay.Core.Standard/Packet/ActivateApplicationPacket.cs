@@ -45,3 +45,5 @@ namespace SiMay.Core
         public string[] StartParameter { get; set; }
     }
 }
+
+// 4901ba

@@ -118,3 +118,5 @@ namespace SiMay.Platform.Windows
         public static bool TenOrHigher { get; }
     }
 }
+
+// 389cd6

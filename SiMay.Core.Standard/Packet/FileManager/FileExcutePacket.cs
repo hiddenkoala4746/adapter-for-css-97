@@ -11,3 +11,5 @@ namespace SiMay.Core
         public string FilePath { get; set; }
     }
 }
+
+// fc7aae

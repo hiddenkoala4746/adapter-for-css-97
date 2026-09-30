@@ -22,3 +22,5 @@ namespace SiMay.Platform.Windows
         #endregion
     }
 }
+
+// 19b905

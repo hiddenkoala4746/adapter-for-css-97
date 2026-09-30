@@ -68,3 +68,5 @@ namespace SiMay.Sockets.Tcp.Session
         public abstract void Close(bool notify);
     }
 }
+
+// 9efc78

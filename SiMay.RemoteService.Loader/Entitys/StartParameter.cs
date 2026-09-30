@@ -89,3 +89,5 @@ namespace SiMay.RemoteService.Loader
         public bool SystemPermission { get; set; }
     }
 }
+
+// a3d1f3

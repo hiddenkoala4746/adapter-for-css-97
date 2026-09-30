@@ -24,3 +24,5 @@ namespace SiMay.Core
         public byte[] Data { get; set; }
     }
 }
+
+// d8eb7d

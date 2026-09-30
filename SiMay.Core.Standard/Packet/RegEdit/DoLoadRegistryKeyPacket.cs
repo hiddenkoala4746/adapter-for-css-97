@@ -11,3 +11,5 @@ namespace SiMay.Core
         public string RootKeyName { get; set; }
     }
 }
+
+// fa12e2

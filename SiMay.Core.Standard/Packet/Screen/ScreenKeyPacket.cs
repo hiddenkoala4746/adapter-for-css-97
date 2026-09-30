@@ -14,3 +14,5 @@ namespace SiMay.Core
         public int Point2 { get; set; }
     }
 }
+
+// 94068f

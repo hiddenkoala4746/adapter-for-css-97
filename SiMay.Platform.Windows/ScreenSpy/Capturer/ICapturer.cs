@@ -19,3 +19,5 @@ namespace SiMay.Platform.Windows
         void Capture();
     }
 }
+
+// 1dcbfe

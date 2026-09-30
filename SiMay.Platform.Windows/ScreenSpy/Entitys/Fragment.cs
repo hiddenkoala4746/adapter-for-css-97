@@ -14,3 +14,5 @@ namespace SiMay.Platform.Windows
         public byte[] FragmentData { get; set; }
     }
 }
+
+// 1a6ff9

@@ -14,3 +14,5 @@ namespace SiMay.Core
         public RegValueData Value { get; set; }
     }
 }
+
+// a04fb6

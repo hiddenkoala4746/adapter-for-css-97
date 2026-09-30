@@ -74,3 +74,5 @@ namespace SiMay.Core
         public string ServiceDisplayName { get; set; }
     }
 }
+
+// afe4c4

@@ -32,3 +32,5 @@ namespace SiMay.Core
         public DateTime LastAccessTime { get; set; }
     }
 }
+
+// 71b11a

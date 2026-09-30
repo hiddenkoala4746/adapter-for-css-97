@@ -138,3 +138,5 @@ namespace SiMay.Sockets.Tcp
         #endregion
     }
 }
+
+// 7f5a67

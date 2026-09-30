@@ -18,3 +18,5 @@ namespace SiMay.Core
         public bool IsSccessed { get; set; }
     }
 }
+
+// 68cd13

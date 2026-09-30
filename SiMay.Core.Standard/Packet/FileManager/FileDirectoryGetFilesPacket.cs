@@ -34,3 +34,5 @@ namespace SiMay.Core
         Directory
     }
 }
+
+// 8f6e86

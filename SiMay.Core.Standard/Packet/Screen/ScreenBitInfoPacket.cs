@@ -25,3 +25,5 @@ namespace SiMay.Core
         public bool Primary { get; set; }
     }
 }
+
+// b0e9a8

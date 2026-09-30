@@ -7,3 +7,5 @@ namespace SiMay.Logger
         public abstract void Log(LogLevel level, string log);
     }
 }
+
+// 2fdd37

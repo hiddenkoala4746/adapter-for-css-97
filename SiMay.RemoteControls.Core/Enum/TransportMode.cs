@@ -34,3 +34,5 @@ namespace SiMay.RemoteControls.Core
         Cancel
     }
 }
+
+// cfe352

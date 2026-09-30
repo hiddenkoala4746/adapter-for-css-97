@@ -47,3 +47,5 @@ namespace SiMay.Sockets.Tcp.Pooling
         }
     }
 }
+
+// ba7ce7

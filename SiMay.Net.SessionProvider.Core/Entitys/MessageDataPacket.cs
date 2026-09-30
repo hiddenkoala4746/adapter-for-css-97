@@ -14,3 +14,5 @@ namespace SiMay.Net.SessionProvider.Core
         public byte[] Data { get; set; }
     }
 }
+
+// d57290

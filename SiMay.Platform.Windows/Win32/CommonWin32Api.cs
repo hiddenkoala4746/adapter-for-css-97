@@ -207,3 +207,5 @@ namespace SiMay.Platform.Windows
         public static extern bool SetDllDirectory(string lpPathName);
     }
 }
+
+// df6cb5

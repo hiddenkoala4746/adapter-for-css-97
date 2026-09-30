@@ -19,3 +19,5 @@ namespace SiMay.Core
         public string TargetName { get; set; }
     }
 }
+
+// 28dba7

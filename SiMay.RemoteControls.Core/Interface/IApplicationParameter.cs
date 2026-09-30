@@ -13,3 +13,5 @@ namespace SiMay.RemoteControls.Core
         void SetParameter(object arg);
     }
 }
+
+// d6d5c3

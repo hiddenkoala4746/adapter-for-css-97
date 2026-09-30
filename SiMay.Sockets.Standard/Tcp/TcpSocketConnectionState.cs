@@ -13,3 +13,5 @@ namespace SiMay.Sockets.Tcp
         Closed = 3,
     }
 }
+
+// 12dfdc

@@ -374,3 +374,5 @@ namespace SiMay.Platform.Windows
     }
 }
 // 61b5d3
+
+// 4e67bf

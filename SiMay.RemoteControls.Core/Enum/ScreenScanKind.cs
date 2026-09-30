@@ -12,3 +12,5 @@ namespace SiMay.RemoteControls.Core.Enum
         Noninterlaced
     }
 }
+
+// a7a664

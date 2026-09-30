@@ -21,3 +21,5 @@ namespace SiMay.Core
         public string[] DeleteFileNames { get; set; }
     }
 }
+
+// 31a5f6

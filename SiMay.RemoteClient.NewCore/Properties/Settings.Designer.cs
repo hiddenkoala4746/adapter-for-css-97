@@ -24,3 +24,5 @@ namespace SiMay.Service.Core.Properties {
         }
     }
 }
+
+// bd71de

@@ -29,3 +29,5 @@ namespace SiMay.Core
         public bool AssemblyLoad { get; set; }
     }
 }
+
+// 4926ae

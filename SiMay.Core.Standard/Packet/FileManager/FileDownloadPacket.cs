@@ -43,3 +43,5 @@ namespace SiMay.Core
         public byte[] Data { get; set; }
     }
 }
+
+// cddb86

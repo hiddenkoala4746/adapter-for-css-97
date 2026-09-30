@@ -99,3 +99,4 @@ namespace SiMay.RemoteMonitor.Application
         private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
+// 27b05a

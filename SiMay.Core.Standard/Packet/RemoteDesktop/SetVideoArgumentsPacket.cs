@@ -12,3 +12,5 @@ namespace SiMay.Core.Standard
         public string[] Arguments { get; set; }
     }
 }
+
+// c5901c

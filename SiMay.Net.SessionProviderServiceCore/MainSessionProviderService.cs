@@ -285,3 +285,5 @@ namespace SiMay.Net.SessionProviderServiceCore
         }
     }
 }
+
+// 3ddc53

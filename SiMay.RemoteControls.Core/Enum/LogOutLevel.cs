@@ -13,3 +13,5 @@ namespace SiMay.RemoteControls.Core
         Error
     }
 }
+
+// 4a3a8f

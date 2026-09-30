@@ -12,3 +12,5 @@ namespace SiMay.Core
         RemoveStartupItem
     }
 }
+
+// 2f0d74

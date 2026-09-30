@@ -27,3 +27,5 @@ namespace SiMay.Core
         public bool HasUserProcess { get; set; }
     }
 }
+
+// 5bb3ba

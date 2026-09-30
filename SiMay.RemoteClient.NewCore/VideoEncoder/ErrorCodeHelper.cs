@@ -26,3 +26,5 @@ namespace SiMay.Service.Core
         }
     }
 }
+
+// 079697

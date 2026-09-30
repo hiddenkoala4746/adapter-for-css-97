@@ -71,3 +71,4 @@ namespace SiMay.RemoteControls.Core
             => _application = appConfiguration;
     }
 }
+// 492cf3

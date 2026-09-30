@@ -14,3 +14,5 @@ namespace SiMay.Core
         public string ExceptionMessage { get; set; }
     }
 }
+
+// 06d887

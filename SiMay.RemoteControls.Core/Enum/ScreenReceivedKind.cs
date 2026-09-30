@@ -22,3 +22,5 @@ namespace SiMay.RemoteControls.Core.Enum
         DifferenceEnd
     }
 }
+
+// b63b6b

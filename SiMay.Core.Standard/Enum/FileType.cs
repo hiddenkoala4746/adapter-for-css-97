@@ -23,3 +23,5 @@ namespace SiMay.Core
         Directory
     }
 }
+
+// db6edc

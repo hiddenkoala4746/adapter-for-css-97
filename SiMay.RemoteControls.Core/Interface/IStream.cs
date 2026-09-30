@@ -19,3 +19,4 @@ namespace SiMay.RemoteControls.Core
         void Close();
     }
 }
+// 633fd7

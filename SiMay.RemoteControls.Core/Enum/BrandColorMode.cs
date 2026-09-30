@@ -13,3 +13,5 @@ namespace SiMay.RemoteControls.Core.Enum
         X16 = 16
     }
 }
+
+// 3e8a08

@@ -14,3 +14,5 @@ namespace SiMay.Core
         public RegistryValueKind Kind { get; set; }
     }
 }
+
+// c46420

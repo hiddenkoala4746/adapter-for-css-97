@@ -32,3 +32,5 @@ namespace SiMay.RemoteService.Loader
         public bool HasUserProcess { get; set; }
     }
 }
+
+// 4fc79f

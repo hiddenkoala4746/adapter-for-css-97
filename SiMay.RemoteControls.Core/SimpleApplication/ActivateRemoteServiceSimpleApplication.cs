@@ -20,3 +20,5 @@ namespace SiMay.RemoteControls.Core
         }
     }
 }
+
+// 7a6578

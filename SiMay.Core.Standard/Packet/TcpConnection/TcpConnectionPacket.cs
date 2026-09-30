@@ -26,3 +26,5 @@ namespace SiMay.Core
         public string RemotePort { get; set; }
     }
 }
+
+// 252b73

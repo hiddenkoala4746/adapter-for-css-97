@@ -26,3 +26,5 @@ namespace SiMay.RemoteControls.Core
         void ContinueTask(ApplicationBaseAdapterHandler handler);
     }
 }
+
+// 337b45

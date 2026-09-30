@@ -15,3 +15,5 @@ namespace SiMay.Platform.Windows
         public byte[] Data { get; set; }
     }
 }
+
+// fa7405

@@ -188,3 +188,4 @@ namespace SiMay.RemoteMonitor.Application
         private WordTextBox valueDataTxtBox;
     }
 }
+// 78d571

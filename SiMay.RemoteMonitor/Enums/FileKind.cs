@@ -16,3 +16,5 @@ namespace SiMay.RemoteMonitor.Enums
         Disk
     }
 }
+
+// 969012

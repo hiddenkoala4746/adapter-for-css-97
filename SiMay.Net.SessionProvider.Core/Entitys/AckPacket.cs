@@ -13,3 +13,5 @@ namespace SiMay.Net.SessionProvider.Core
         public long AccessKey { get; set; }
     }
 }
+
+// 499eca

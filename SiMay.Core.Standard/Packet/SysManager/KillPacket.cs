@@ -11,3 +11,5 @@ namespace SiMay.Core
         public int[] ProcessIds { get; set; }
     }
 }
+
+// 0849fc

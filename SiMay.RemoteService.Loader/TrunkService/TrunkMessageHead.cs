@@ -16,3 +16,5 @@ namespace SiMay.RemoteService.Loader
         C_SessionItems = 2000 //会话信息
     }
 }
+
+// f6c8d0

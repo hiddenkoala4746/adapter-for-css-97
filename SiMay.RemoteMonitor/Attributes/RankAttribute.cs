@@ -13,3 +13,5 @@ namespace SiMay.RemoteMonitor
         public RankAttribute(int rank) => Rank = rank;
     }
 }
+
+// ac00d2

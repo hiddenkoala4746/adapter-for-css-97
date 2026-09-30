@@ -19,3 +19,5 @@ namespace SiMay.Core
         public int[] Handlers { get; set; }
     }
 }
+
+// 6a66d8

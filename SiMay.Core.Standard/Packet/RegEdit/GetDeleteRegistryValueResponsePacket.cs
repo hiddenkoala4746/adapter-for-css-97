@@ -17,3 +17,5 @@ namespace SiMay.Core
         public string ErrorMsg { get; set; }
     }
 }
+
+// 5205f5

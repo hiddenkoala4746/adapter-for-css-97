@@ -764,3 +764,5 @@ namespace SiMay.RemoteMonitor.Application
         #endregion
     }
 }
+
+// 18dfc1

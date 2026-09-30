@@ -21,3 +21,5 @@ namespace SiMay.Core
         }
     }
 }
+
+// 3a5d3d

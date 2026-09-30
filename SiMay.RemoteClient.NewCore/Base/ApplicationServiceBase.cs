@@ -29,3 +29,4 @@ namespace SiMay.Service.Core
             => CurrentSession.SessionClose();
     }
 }
+// d43937

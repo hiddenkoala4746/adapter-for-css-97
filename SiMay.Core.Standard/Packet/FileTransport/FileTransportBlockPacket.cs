@@ -27,3 +27,5 @@ namespace SiMay.Core
         public bool IsOK { get; set; }
     }
 }
+
+// b9cffb

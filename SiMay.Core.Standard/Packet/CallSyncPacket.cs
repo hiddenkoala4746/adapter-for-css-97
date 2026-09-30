@@ -41,3 +41,5 @@ namespace SiMay.Core
         public string Message { get; set; }
     }
 }
+
+// 2d95c2

@@ -17,3 +17,5 @@ namespace SiMay.Core
         public TcpConnectionState State { get; set; }
     }
 }
+
+// edeb53

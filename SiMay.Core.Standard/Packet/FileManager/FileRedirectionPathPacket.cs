@@ -12,3 +12,5 @@ namespace SiMay.Core
         public SpecialFolder SpecialFolder { get; set; }
     }
 }
+
+// 51d3a0

@@ -43,3 +43,5 @@ namespace SiMay.RemoteMonitor.UserControls
         public DateTime LastAccessTime { get; set; }
     }
 }
+
+// 0cca0e

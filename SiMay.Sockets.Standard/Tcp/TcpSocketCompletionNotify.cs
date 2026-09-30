@@ -14,3 +14,5 @@ namespace SiMay.Sockets.Tcp
         OnClosed,
     }
 }
+
+// 2e63ec

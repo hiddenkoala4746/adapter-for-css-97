@@ -65,3 +65,5 @@ namespace SiMay.Net.SessionProvider.Providers
         public override void DisconnectAll() => _server.DisconnectAll(true);
     }
 }
+
+// 18833e

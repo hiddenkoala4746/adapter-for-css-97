@@ -13,3 +13,5 @@ namespace SiMay.Core
         public Fragment[] Fragments { get; set; }
     }
 }
+
+// 496a4f

@@ -22,3 +22,5 @@ namespace SiMay.RemoteMonitor.UserControls.HexEditor
         void OnGotFocus(EventArgs e);
     }
 }
+
+// 47c3ea

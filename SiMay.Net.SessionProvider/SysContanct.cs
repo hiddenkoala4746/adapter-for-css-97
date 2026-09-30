@@ -10,3 +10,5 @@ namespace SiMay.Net.SessionProvider
         public const int INDEX_WORKTYPE = 1;
     }
 }
+
+// d24f66

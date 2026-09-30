@@ -53,3 +53,5 @@ namespace SiMay.Net.SessionProvider.Core
         MID_LOGOUT,
     }
 }
+
+// 3f475d

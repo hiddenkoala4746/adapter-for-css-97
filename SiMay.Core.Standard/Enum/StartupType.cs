@@ -16,3 +16,5 @@ namespace SiMay.Core
         StartMenu
     }
 }
+
+// fa52c0

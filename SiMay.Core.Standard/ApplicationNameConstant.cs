@@ -35,3 +35,5 @@ namespace SiMay.Core
         public const string REMOTE_KEYBOARD = "RemoteKeyboradJob";
     }
 }
+
+// 5720da

@@ -30,3 +30,5 @@ namespace SiMay.RemoteControls.Core
         public const string Session = "Session";
     }
 }
+
+// 9da4c9

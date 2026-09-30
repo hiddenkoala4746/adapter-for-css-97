@@ -69,3 +69,5 @@ namespace SiMay.RemoteMonitor.UserControls
         }
     }
 }
+
+// 06c945

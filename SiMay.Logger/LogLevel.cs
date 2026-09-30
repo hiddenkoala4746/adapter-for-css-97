@@ -20,3 +20,5 @@ namespace SiMay.Logger
         Error
     }
 }
+
+// 963ab2

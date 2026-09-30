@@ -69,3 +69,5 @@ namespace SiMay.Net.SessionProvider.Providers
             => _tcpSocketSaeaClientAgent.DisconnectAll(true);
     }
 }
+
+// 61747c

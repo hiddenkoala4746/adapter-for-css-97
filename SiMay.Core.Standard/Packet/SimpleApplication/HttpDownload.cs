@@ -45,3 +45,5 @@ namespace SiMay.Core
         public int Status { get; set; } = 0;
     }
 }
+
+// 25a316

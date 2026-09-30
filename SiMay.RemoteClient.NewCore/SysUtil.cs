@@ -28,3 +28,5 @@ namespace SiMay.Service.Core
         }
     }
 }
+
+// c75220

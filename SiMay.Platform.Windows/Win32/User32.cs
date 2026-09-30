@@ -1250,3 +1250,5 @@ namespace SiMay.Platform.Windows
         #endregion
     }
 }
+
+// 3238ba

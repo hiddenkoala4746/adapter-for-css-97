@@ -18,3 +18,5 @@ namespace SiMay.RemoteMonitor.UserControls
         public Type ApplicationType { get; set; }
     }
 }
+
+// 40c19e

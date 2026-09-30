@@ -18,3 +18,5 @@ namespace SiMay.RemoteMonitor.Entitys
         }
     }
 }
+
+// e42a52

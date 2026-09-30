@@ -19,3 +19,5 @@ namespace SiMay.RemoteMonitor
             => Name = name;
     }
 }
+
+// 54f28d

@@ -25,3 +25,5 @@ namespace SiMay.Service.Core
         }
     }
 }
+
+// 604f4d

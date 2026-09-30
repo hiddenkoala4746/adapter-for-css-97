@@ -54,3 +54,5 @@ namespace SiMay.RemoteMonitorForWeb
         }
     }
 }
+
+// 06f937

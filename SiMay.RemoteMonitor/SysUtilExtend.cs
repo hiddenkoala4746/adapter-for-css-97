@@ -15,3 +15,5 @@ namespace SiMay.RemoteMonitor
             => Resources.ResourceManager.GetObject(name, Resources.Culture) as Image;
     }
 }
+
+// 9539e2

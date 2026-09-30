@@ -13,3 +13,5 @@ namespace SiMay.Net.SessionProvider.Core
         public string Message { get; set; }
     }
 }
+
+// 6fa549

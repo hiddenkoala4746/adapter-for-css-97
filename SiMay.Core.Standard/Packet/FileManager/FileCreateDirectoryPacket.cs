@@ -17,3 +17,5 @@ namespace SiMay.Core
         public bool IsSuccess { get; set; }
     }
 }
+
+// 078142

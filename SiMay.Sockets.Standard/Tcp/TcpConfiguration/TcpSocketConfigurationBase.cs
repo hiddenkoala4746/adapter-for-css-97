@@ -36,3 +36,5 @@ namespace SiMay.Sockets.Tcp.TcpConfiguration
         public bool ReuseAddress { get; set; }
     }
 }
+
+// 4f39b2

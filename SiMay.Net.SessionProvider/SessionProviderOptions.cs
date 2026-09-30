@@ -46,3 +46,5 @@ namespace SiMay.Net.SessionProvider
         public IPEndPoint ServiceIPEndPoint { get; set; }
     }
 }
+
+// 352e40

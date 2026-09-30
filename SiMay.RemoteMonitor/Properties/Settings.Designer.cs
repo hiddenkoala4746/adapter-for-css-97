@@ -24,3 +24,5 @@ namespace SiMay.RemoteMonitor.Properties {
         }
     }
 }
+
+// 0263c0

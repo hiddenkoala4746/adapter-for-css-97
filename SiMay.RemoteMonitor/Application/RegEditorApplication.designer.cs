@@ -697,3 +697,4 @@ namespace SiMay.RemoteMonitor.Application
         private System.Windows.Forms.ToolStripSeparator modifyToolStripSeparator1;
     }
 }
+// 0a5fbe

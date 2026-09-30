@@ -15,3 +15,5 @@ namespace SiMay.RemoteControls.Core
         public ApplicationAttribute(Type type) => ApplicationHandlerAdapterType = type;
     }
 }
+
+// f0e3e4

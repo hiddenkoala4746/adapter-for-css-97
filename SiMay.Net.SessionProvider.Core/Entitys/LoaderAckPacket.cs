@@ -30,3 +30,5 @@ namespace SiMay.Net.SessionProvider.Core
         public bool AssemblyLoad { get; set; }
     }
 }
+
+// 6b953d

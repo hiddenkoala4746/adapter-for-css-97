@@ -86,3 +86,4 @@ namespace SiMay.RemoteMonitor.Application
         private System.Windows.Forms.Panel panel1;
     }
 }
+// 8118cd

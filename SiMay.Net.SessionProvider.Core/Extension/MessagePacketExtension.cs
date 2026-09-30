@@ -17,3 +17,5 @@ namespace SiMay.Net.SessionProvider.Core
         }
     }
 }
+
+// 28e4f7

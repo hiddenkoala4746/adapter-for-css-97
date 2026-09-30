@@ -36,3 +36,5 @@ namespace SiMay.RemoteMonitor.Application
         }
     }
 }
+
+// 4c49a8

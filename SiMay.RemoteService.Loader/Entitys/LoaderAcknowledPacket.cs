@@ -30,3 +30,5 @@ namespace SiMay.RemoteService.Loader
         public bool AssemblyLoad { get; set; }
     }
 }
+
+// e80a9b

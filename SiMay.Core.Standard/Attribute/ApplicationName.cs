@@ -10,3 +10,5 @@ namespace SiMay.Core
         public ApplicationNameAttribute(string name) => Name = name;
     }
 }
+
+// 8d7fed

@@ -74,3 +74,5 @@ namespace SiMay.RemoteService.Loader
         public string ServiceDisplayName { get; set; }
     }
 }
+
+// 9a3e15

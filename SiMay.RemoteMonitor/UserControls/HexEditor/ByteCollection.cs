@@ -80,3 +80,5 @@ namespace SiMay.RemoteMonitor.UserControls.HexEditor
         #endregion
     }
 }
+
+// 34ce3e

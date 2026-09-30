@@ -88,3 +88,5 @@ namespace SiMay.RemoteMonitor.UserControls
             => this._isRun = false;
     }
 }
+
+// e1b09a

@@ -107,3 +107,5 @@ namespace SiMay.Sockets.Tcp.Client
         }
     }
 }
+
+// 8dec9a

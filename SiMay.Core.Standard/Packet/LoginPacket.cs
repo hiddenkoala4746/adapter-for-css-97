@@ -39,3 +39,5 @@ namespace SiMay.Core
         public DateTime RunTime { get; set; }
     }
 }
+
+// 49db4d

@@ -11,3 +11,5 @@ namespace SiMay.Core
         public int MonitorIndex { get; set; }
     }
 }
+
+// 905706

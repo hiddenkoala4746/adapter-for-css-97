@@ -15,3 +15,5 @@ namespace SiMay.RemoteControls.Core
         public string OriginName { get; set; }
     }
 }
+
+// 631949

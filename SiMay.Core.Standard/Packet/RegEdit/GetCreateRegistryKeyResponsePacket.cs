@@ -17,3 +17,5 @@ namespace SiMay.Core
         public string ErrorMsg { get; set; }
     }
 }
+
+// f89831

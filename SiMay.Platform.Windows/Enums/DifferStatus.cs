@@ -23,3 +23,5 @@ namespace SiMay.Platform.Windows
         COMPLETED
     }
 }
+
+// 2a058c

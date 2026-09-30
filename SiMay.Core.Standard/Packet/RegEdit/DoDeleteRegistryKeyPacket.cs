@@ -13,3 +13,5 @@ namespace SiMay.Core
         public string KeyName { get; set; }
     }
 }
+
+// 3902ba

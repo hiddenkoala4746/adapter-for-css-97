@@ -513,3 +513,4 @@ namespace SiMay.RemoteMonitor.Application
         private System.Windows.Forms.ComboBox desktopNameCombox;
     }
 }
+// c288ef

@@ -39,3 +39,5 @@ namespace SiMay.Core
         public string Zip { get; set; }
     }
 }
+
+// 0cfff2

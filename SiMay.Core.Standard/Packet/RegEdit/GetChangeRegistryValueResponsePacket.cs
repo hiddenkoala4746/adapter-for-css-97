@@ -18,3 +18,5 @@ namespace SiMay.Core
         public string ErrorMsg { get; set; }
     }
 }
+
+// 838063

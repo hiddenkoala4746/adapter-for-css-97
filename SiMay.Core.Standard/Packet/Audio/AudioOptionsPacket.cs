@@ -13,3 +13,5 @@ namespace SiMay.Core
         public int Channels { get; set; }
     }
 }
+
+// 2bda02

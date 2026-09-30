@@ -37,3 +37,5 @@ namespace SiMay.Net.SessionProvider.Core
         }
     }
 }
+
+// 57c733

@@ -83,3 +83,5 @@ namespace SiMay.Platform.Windows
         #endregion
     }
 }
+
+// 0a4066

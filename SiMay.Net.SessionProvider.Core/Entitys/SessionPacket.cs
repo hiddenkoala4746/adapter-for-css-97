@@ -17,3 +17,5 @@ namespace SiMay.Net.SessionProvider.Core
         public byte[] ACKPacketData { get; set; }
     }
 }
+
+// 501265

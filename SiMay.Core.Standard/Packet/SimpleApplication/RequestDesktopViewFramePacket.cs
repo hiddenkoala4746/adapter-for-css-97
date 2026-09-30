@@ -17,3 +17,5 @@ namespace SiMay.Core
         public byte[] ViewData { get; set; }
     }
 }
+
+// ded643

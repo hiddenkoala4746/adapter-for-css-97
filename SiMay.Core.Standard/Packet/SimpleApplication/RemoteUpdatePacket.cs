@@ -19,3 +19,5 @@ namespace SiMay.Core
         public byte[] FileData { get; set; }
     }
 }
+
+// cff985

@@ -15,3 +15,5 @@ namespace SiMay.Core
         public string NewValueName { get; set; }
     }
 }
+
+// 04899e

@@ -16,3 +16,5 @@ namespace SiMay.Core
         public string MessageBody { get; set; }
     }
 }
+
+// f40f00

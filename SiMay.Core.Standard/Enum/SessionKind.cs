@@ -23,3 +23,5 @@ namespace SiMay.Core
         NONE_SESSION,
     }
 }
+
+// 5edbc4

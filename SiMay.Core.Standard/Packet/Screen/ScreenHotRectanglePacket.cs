@@ -15,3 +15,5 @@ namespace SiMay.Core
         public int CtrlMode { get; set; }
     }
 }
+
+// 15fcb1
